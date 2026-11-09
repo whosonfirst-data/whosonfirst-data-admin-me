@@ -56,7 +56,7 @@
         "wk:page":"Dubac,_Montenegro"
     },
     "wof:country":"ME",
-    "wof:geomhash":"d2ee56cee81fcced92c79ba6d473b3dd",
+    "wof:geomhash":"44d6927c8a88c21f1ccfc1f4c03558d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.09833,
     43.46722000000001
 ],
-  "geometry": {"coordinates":[19.09833,43.46722000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.09833,43.46722],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Boji%C5%A1ta,_Montenegro"
     },
     "wof:country":"ME",
-    "wof:geomhash":"5948c2b66a62092c822d36d8a55769d7",
+    "wof:geomhash":"0e964459e90d8d9a6df7c4af1f763593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     19.68972,
     43.0
 ],
-  "geometry": {"coordinates":[19.68972,43.0],"type":"Point"}
+  "geometry": {"coordinates":[19.68972,43],"type":"Point"}
 }

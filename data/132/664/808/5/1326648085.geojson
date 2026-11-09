@@ -56,7 +56,7 @@
         "wk:page":"Mirojevi%C4%87i"
     },
     "wof:country":"ME",
-    "wof:geomhash":"3fd6b9959f83c0254c58ff37b661b58f",
+    "wof:geomhash":"da8af3895ff67bb701e90db973804ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.83361,
     43.07389000000001
 ],
-  "geometry": {"coordinates":[19.83361,43.07389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.83361,43.07389],"type":"Point"}
 }

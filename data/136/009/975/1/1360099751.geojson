@@ -53,7 +53,7 @@
         "wk:page":"Mao%C4%8De"
     },
     "wof:country":"ME",
-    "wof:geomhash":"5dfceda1f20d7ff6138f17e8e99fa241",
+    "wof:geomhash":"67834faa545317f05e76bf58d3abb18c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.41472000000001,
     43.20333
 ],
-  "geometry": {"coordinates":[19.41472000000001,43.20333],"type":"Point"}
+  "geometry": {"coordinates":[19.41472,43.20333],"type":"Point"}
 }

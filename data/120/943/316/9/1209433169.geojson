@@ -63,7 +63,7 @@
         "wk:page":"Malov_Do"
     },
     "wof:country":"ME",
-    "wof:geomhash":"d748313798d40a5c251dbbba33d29404",
+    "wof:geomhash":"f8707c96df29e1250632a54caa25c952",
     "wof:hierarchy":[
         {
             "country_id":85632667,
@@ -86,5 +86,5 @@
     18.63472,
     42.57389000000001
 ],
-  "geometry": {"coordinates":[18.63472,42.57389000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63472,42.57389],"type":"Point"}
 }

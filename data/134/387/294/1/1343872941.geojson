@@ -43,7 +43,7 @@
         "gn:id":3338363
     },
     "wof:country":"ME",
-    "wof:geomhash":"d5fc8913aab3eba7e580d0841c0c47ce",
+    "wof:geomhash":"4ee07be8f9a3744c8f09443a1ccae11b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     19.88722000000001,
     42.9525
 ],
-  "geometry": {"coordinates":[19.88722000000001,42.9525],"type":"Point"}
+  "geometry": {"coordinates":[19.88722,42.9525],"type":"Point"}
 }

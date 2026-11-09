@@ -59,7 +59,7 @@
         "wk:page":"Barice,_Montenegro"
     },
     "wof:country":"ME",
-    "wof:geomhash":"e94ee4873c95b7ef75ac9251075a9e80",
+    "wof:geomhash":"c5505e5349efcdf7301d2d1c69b4d2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.41472000000001,
     42.76861
 ],
-  "geometry": {"coordinates":[19.41472000000001,42.76861],"type":"Point"}
+  "geometry": {"coordinates":[19.41472,42.76861],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"%C5%A0ljivansko,_Pljevlja"
     },
     "wof:country":"ME",
-    "wof:geomhash":"8747d7ee65d6f7e4ee4703ea3549af40",
+    "wof:geomhash":"63e0c9edb9575b717871a367d33abce7",
     "wof:hierarchy":[
         {
             "country_id":85632667,
@@ -77,5 +77,5 @@
     19.21278,
     43.32167000000001
 ],
-  "geometry": {"coordinates":[19.21278,43.32167000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.21278,43.32167],"type":"Point"}
 }

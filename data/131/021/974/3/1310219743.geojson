@@ -59,7 +59,7 @@
         "wk:page":"D%C5%BEafi%C4%87a_Brdo"
     },
     "wof:country":"ME",
-    "wof:geomhash":"e4ae8934d6585c3d0cc179d1aea4c4f4",
+    "wof:geomhash":"65c911b8b3badd2bd0c7e1111e56eb02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.75556,
     43.04389000000001
 ],
-  "geometry": {"coordinates":[19.75556,43.04389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.75556,43.04389],"type":"Point"}
 }

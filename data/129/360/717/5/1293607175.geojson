@@ -53,7 +53,7 @@
         "wk:page":"Donje_Lipovo"
     },
     "wof:country":"ME",
-    "wof:geomhash":"f158fccb04abdf4df5fb14043fa66a7d",
+    "wof:geomhash":"54c5593211b1c650a3a35c1b777e4c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.44194,
     42.86389000000001
 ],
-  "geometry": {"coordinates":[19.44194,42.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.44194,42.86389],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Budimlja"
     },
     "wof:country":"ME",
-    "wof:geomhash":"6c1b5e16082c3579d438d19b739a1e5f",
+    "wof:geomhash":"992db3c4e6202254c37321f9354fac2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     19.89167,
     42.86389000000001
 ],
-  "geometry": {"coordinates":[19.89167,42.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.89167,42.86389],"type":"Point"}
 }

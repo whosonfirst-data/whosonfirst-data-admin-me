@@ -51,7 +51,7 @@
         "wk:page":"Pali,_Montenegro"
     },
     "wof:country":"ME",
-    "wof:geomhash":"71ef393f632832d95ee11fef9b34ac5c",
+    "wof:geomhash":"5156d09475774e8c6570bdb520c07ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     19.66472,
     43.0
 ],
-  "geometry": {"coordinates":[19.66472,43.0],"type":"Point"}
+  "geometry": {"coordinates":[19.66472,43],"type":"Point"}
 }

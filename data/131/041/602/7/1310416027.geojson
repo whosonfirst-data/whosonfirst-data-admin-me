@@ -56,7 +56,7 @@
         "wk:page":"Gornje_Strav%C4%8De"
     },
     "wof:country":"ME",
-    "wof:geomhash":"8cc7723676d06725852131d731386223",
+    "wof:geomhash":"546344d3bece8265e432368fcd279e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.46417000000001,
     42.56389
 ],
-  "geometry": {"coordinates":[19.46417000000001,42.56389],"type":"Point"}
+  "geometry": {"coordinates":[19.46417,42.56389],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Vu%C4%8Dji_Do"
     },
     "wof:country":"ME",
-    "wof:geomhash":"1e0154270ca24726c12e0af3ed02cdfa",
+    "wof:geomhash":"baa093035b8abac969706e97afa3b9d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.85222000000001,
     42.46722000000001
 ],
-  "geometry": {"coordinates":[18.85222000000001,42.46722000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.85222,42.46722],"type":"Point"}
 }

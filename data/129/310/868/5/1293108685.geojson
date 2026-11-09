@@ -59,7 +59,7 @@
         "wk:page":"Krute"
     },
     "wof:country":"ME",
-    "wof:geomhash":"d427b193b9d8f1ad214b60867ce1e679",
+    "wof:geomhash":"bcf55686b3a2d76cdaecb5d2637b4b17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.25194,
     42.01694000000001
 ],
-  "geometry": {"coordinates":[19.25194,42.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.25194,42.01694],"type":"Point"}
 }

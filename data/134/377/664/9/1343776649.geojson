@@ -56,7 +56,7 @@
         "wk:page":"%C5%A0ipa%C4%8Dno,_Nik%C5%A1i%C4%87"
     },
     "wof:country":"ME",
-    "wof:geomhash":"08e1c3b484984047f7023f023cb30d21",
+    "wof:geomhash":"2ccc1a0b26a6be80b66c0d43e34932b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.94556,
     42.87139000000001
 ],
-  "geometry": {"coordinates":[18.94556,42.87139000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.94556,42.87139],"type":"Point"}
 }

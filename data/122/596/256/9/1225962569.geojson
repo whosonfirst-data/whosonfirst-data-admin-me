@@ -56,7 +56,7 @@
         "wk:page":"Godijevo"
     },
     "wof:country":"ME",
-    "wof:geomhash":"ecc951a28dea06f7febe0cc584b2bfc1",
+    "wof:geomhash":"8a4ac223447d32f4719fbee74d36714a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.895,
     43.0
 ],
-  "geometry": {"coordinates":[19.895,43.0],"type":"Point"}
+  "geometry": {"coordinates":[19.895,43],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Mojstir"
     },
     "wof:country":"ME",
-    "wof:geomhash":"d9bf3f878780f6d36fb53e1650041902",
+    "wof:geomhash":"66e8ca4317c547a9c1b16e01b56f6359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.87222,
     43.07944000000001
 ],
-  "geometry": {"coordinates":[19.87222,43.07944000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.87222,43.07944],"type":"Point"}
 }

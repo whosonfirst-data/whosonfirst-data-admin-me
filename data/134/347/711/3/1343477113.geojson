@@ -56,7 +56,7 @@
         "wk:page":"La%C4%91ana"
     },
     "wof:country":"ME",
-    "wof:geomhash":"6244a1f20612caedb51a2082fdd7a54f",
+    "wof:geomhash":"c888b517fccc7c8ad4d1d9abf9de9c24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.26917000000001,
     43.30556
 ],
-  "geometry": {"coordinates":[19.26917000000001,43.30556],"type":"Point"}
+  "geometry": {"coordinates":[19.26917,43.30556],"type":"Point"}
 }
