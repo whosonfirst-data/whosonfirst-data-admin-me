@@ -1,0 +1,73 @@
+{
+  "id": 9895041475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09194,42.46028,19.09194,42.46028",
+    "geom:latitude":42.46028,
+    "geom:longitude":19.09194,
+    "gn:population":29,
+    "iso:country":"ME",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3317295: name \"Dolovi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3317295"
+        },
+        {
+            "citation":"GeoNames populated place 3317295: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3317295"
+        },
+        {
+            "citation":"GeoNames populated place 3317295: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3317295"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674689 (Podgorica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667,
+        85674689,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317295
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"136709628eaa886ffed413b3b01a1d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":9895041475,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":9895041475,
+    "wof:lastmodified":1795735257,
+    "wof:name":"Dolovi",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09194,
+    42.46028,
+    19.09194,
+    42.46028
+],
+  "geometry": {"coordinates":[19.09194,42.46028],"type":"Point"}
+}
