@@ -1,0 +1,75 @@
+{
+  "id": 9895094833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83368,42.55714,19.83368,42.55714",
+    "geom:latitude":42.55714,
+    "geom:longitude":19.83368,
+    "gn:population":4000,
+    "iso:country":"ME",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 11497642 (Gusinje): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11497642"
+        },
+        {
+            "citation":"GeoNames division 11497642 (Gusinje): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11497642"
+        },
+        {
+            "citation":"GeoNames division 11497642 (Gusinje): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11497642"
+        },
+        {
+            "citation":"GeoNames division 11497642 (Gusinje): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/11497642"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gusinje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497642
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0492eeb809201c1585b0c3eba8e1c269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":9895094833
+        }
+    ],
+    "wof:id":9895094833,
+    "wof:lastmodified":1795801287,
+    "wof:name":"Gusinje",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83368,
+    42.55714,
+    19.83368,
+    42.55714
+],
+  "geometry": {"coordinates":[19.83368,42.55714],"type":"Point"}
+}

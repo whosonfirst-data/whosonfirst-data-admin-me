@@ -1,0 +1,75 @@
+{
+  "id": 9895094835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32931,42.36355,19.32931,42.36355",
+    "geom:latitude":42.36355,
+    "geom:longitude":19.32931,
+    "gn:population":12000,
+    "iso:country":"ME",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12104729 (Tuzi): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12104729"
+        },
+        {
+            "citation":"GeoNames division 12104729 (Tuzi): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12104729"
+        },
+        {
+            "citation":"GeoNames division 12104729 (Tuzi): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12104729"
+        },
+        {
+            "citation":"GeoNames division 12104729 (Tuzi): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12104729"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tuzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12104729
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"499833ebf5bb7ba77c00759e37f765c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":9895094835
+        }
+    ],
+    "wof:id":9895094835,
+    "wof:lastmodified":1795801287,
+    "wof:name":"Tuzi",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32931,
+    42.36355,
+    19.32931,
+    42.36355
+],
+  "geometry": {"coordinates":[19.32931,42.36355],"type":"Point"}
+}

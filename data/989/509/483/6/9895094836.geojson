@@ -1,0 +1,75 @@
+{
+  "id": 9895094836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24558,42.3299,19.24558,42.3299",
+    "geom:latitude":42.3299,
+    "geom:longitude":19.24558,
+    "gn:population":16093,
+    "iso:country":"ME",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12640530 (Zeta): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640530"
+        },
+        {
+            "citation":"GeoNames division 12640530 (Zeta): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640530"
+        },
+        {
+            "citation":"GeoNames division 12640530 (Zeta): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640530"
+        },
+        {
+            "citation":"GeoNames division 12640530 (Zeta): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12640530"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640530
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7ae72e6e07c9465488c28646fb7a3991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":9895094836
+        }
+    ],
+    "wof:id":9895094836,
+    "wof:lastmodified":1795801287,
+    "wof:name":"Zeta",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24558,
+    42.3299,
+    19.24558,
+    42.3299
+],
+  "geometry": {"coordinates":[19.24558,42.3299],"type":"Point"}
+}
